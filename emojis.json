@@ -50,18 +50,14 @@
             "yippi"
         ]
     },
-    "monkE": {
-        "url": "https://i.ibb.co/48wZByc/monkE.gif",
+    "thumbs_up": {
+        "url": "https://i.ibb.co/C5TmvytX/image.png",
         "default_width": 42,
         "width": 128,
         "height": 128,
         "tags": [
-            "monkey",
-            "ape",
-            "gorilla",
-            "worried",
-            "concerned",
-            "lurk"
+            "thumbs up",
+            "good"
         ]
     }
 }
