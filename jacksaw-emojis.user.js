@@ -872,35 +872,3 @@
         addEmojiButton();
       }
     })();
-
-
-Add Comment
-Please, Sign In to add comment
-Public Pastes
-
-    *Artists / Musicians
-    12 hours ago | 1.66 KB
-    Untitled
-    20 hours ago | 2.59 KB
-    GSA
-    1 day ago | 1.91 KB
-    Untitled
-    1 day ago | 12.81 KB
-    Untitled
-    1 day ago | 10.50 KB
-    Untitled
-    1 day ago | 8.75 KB
-    Untitled
-    2 days ago | 14.36 KB
-    Untitled
-    2 days ago | 5.60 KB
-
-create new paste  /  syntax languages  /  archive  /  faq  /  tools  /  night mode  /  api  /  scraping api  /  news  /  pro
-privacy statement  /  cookies policy  /  terms of service /  security disclosure  /  dmca  /  report abuse  /  contact
-
-By using Pastebin.com you agree to our cookies policy to enhance your experience.
-Site design & logo © 2026 Pastebin
-We use cookies for various purposes including analytics. By continuing to use Pastebin, you agree to our use of cookies as described in the Cookies Policy.  OK, I Understand
-Not a member of Pastebin yet?
-Sign Up, it unlocks many cool features!
-
