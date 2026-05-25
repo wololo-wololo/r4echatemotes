@@ -9,17 +9,15 @@
             "whoops"
         ]
     },
-    "concernedApe": {
-        "url": "https://i.ibb.co/w7K0bTf/concerned-Ape.gif",
+    "huh": {
+        "url": "https://i.ibb.co/G30BYXZy/image.png",
         "default_width": 42,
         "width": 128,
         "height": 128,
         "tags": [
-            "monkey",
-            "ape",
-            "gorilla",
-            "worried",
-            "concerned"
+            "huh",
+            "wdym",
+            "no idea",
         ]
     },
     "stanced": {
