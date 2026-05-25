@@ -314,6 +314,24 @@
             "yippi"
         ]
     },
+    "webbah": {
+        "url": "https://i.ibb.co/fGLvj6Dt/image.png",
+        "default_width": 42,
+        "width": 128,
+        "height": 128,
+        "tags": [
+            "webber"
+        ]
+    },
+    "webbah2": {
+        "url": "https://i.ibb.co/9PB7MKt/image.png",
+        "default_width": 42,
+        "width": 128,
+        "height": 128,
+        "tags": [
+            "webber"
+        ]
+    },
     "leclerc": {
         "url": "https://i.ibb.co/YB22P4Sv/image.png",
         "default_width": 42,
