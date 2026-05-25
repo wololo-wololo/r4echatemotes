@@ -332,6 +332,26 @@
             "webber"
         ]
     },
+    "schumi": {
+        "url": "https://i.ibb.co/Ld5YZTjs/image.png",
+        "default_width": 42,
+        "width": 128,
+        "height": 128,
+        "tags": [
+            "schumi",
+            "schumacher",
+            "michael"
+        ]
+    },
+    "schumipalm": {
+        "url": "https://i.ibb.co/mCDXN3j7/image.png",
+        "default_width": 42,
+        "width": 128,
+        "height": 128,
+        "tags": [
+            "facepalm"
+        ]
+    },
     "leclerc": {
         "url": "https://i.ibb.co/YB22P4Sv/image.png",
         "default_width": 42,
