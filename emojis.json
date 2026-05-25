@@ -1,5 +1,5 @@
 {
-    "leclerc": {
+    "leclerc_huh": {
         "url": "https://i.ibb.co/YB22P4Sv/image.png",
         "default_width": 42,
         "width": 128,
@@ -9,7 +9,7 @@
             "whoops"
         ]
     },
-    "huh": {
+    "pepe_huh": {
         "url": "https://i.ibb.co/G30BYXZy/image.png",
         "default_width": 42,
         "width": 128,
@@ -19,7 +19,7 @@
             "wdym"
         ]
     },
-    "sip": {
+    "pepe_sip": {
         "url": "https://i.ibb.co/Kz6BhCNt/1003843534744469524.webp",
         "default_width": 42,
         "width": 128,
@@ -29,8 +29,8 @@
             "spinning"
         ]
     },
-    "sittin": {
-        "url": "https://i.ibb.co/YcMxQTZ/sittin.gif",
+    "pepe_smile": {
+        "url": "https://i.ibb.co/Gfxvd4Xm/image.png",
         "default_width": 42,
         "width": 128,
         "height": 128,
@@ -39,8 +39,8 @@
             "seal"
         ]
     },
-    "monkeat": {
-        "url": "https://i.ibb.co/MBLgt2R/monkeat.gif",
+    "pepe_yay": {
+        "url": "https://i.ibb.co/67Wh7qF0/image.png",
         "default_width": 42,
         "width": 128,
         "height": 128,
