@@ -332,15 +332,47 @@
             "webber"
         ]
     },
-    "schumi": {
-        "url": "https://i.ibb.co/Ld5YZTjs/image.png",
+     "argh": {
+        "url": "https://i.ibb.co/3yLrwSfm/image.png",
         "default_width": 42,
         "width": 128,
         "height": 128,
         "tags": [
-            "schumi",
-            "schumacher",
-            "michael"
+            "horner",
+            "argh",
+            "horny"
+        ]
+    },
+     "ashrug": {
+        "url": "https://i.ibb.co/zvTSjrY/760113656884887605.webp",
+        "default_width": 42,
+        "width": 128,
+        "height": 128,
+        "tags": [
+            "shrug",
+            "max",
+            "verstappen"
+        ]
+    },
+    "max": {
+        "url": "https://i.ibb.co/m5dc0HKZ/image.png",
+        "default_width": 42,
+        "width": 128,
+        "height": 128,
+        "tags": [
+            "max",
+            "verstappen"
+        ]
+    },
+    "shoey": {
+        "url": "https://i.ibb.co/gMQbPfXB/543808051849723946.webp",
+        "default_width": 42,
+        "width": 128,
+        "height": 128,
+        "tags": [
+            "danny",
+            "shoey",
+            "ric"
         ]
     },
     "schumipalm": {
