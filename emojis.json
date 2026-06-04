@@ -384,6 +384,53 @@
             "facepalm"
         ]
     },
+    "pepewave": {
+        "url": "https://i.ibb.co/BHs2dfZZ/832187545328287774.webp",
+        "default_width": 42,
+        "width": 128,
+        "height": 128,
+        "tags": [
+            "hi",
+            "hey",
+            "wave"
+        ]
+    },
+    "pepebye": {
+        "url": "https://i.ibb.co/j9vYhq88/749989052026978338.webp",
+        "default_width": 42,
+        "width": 128,
+        "height": 128,
+        "tags": [
+            "hi",
+            "hey",
+            "wave",
+            "bye"
+        ]
+    },
+    "pepewave2": {
+        "url": "https://i.ibb.co/LzP6WwdC/531794954675159040.webp",
+        "default_width": 42,
+        "width": 128,
+        "height": 128,
+        "tags": [
+            "hi",
+            "hey",
+            "wave",
+            "bye"
+        ]
+    },
+    "frogwave": {
+        "url": "https://i.ibb.co/rGsJ5cHh/806247719185547296.webp",
+        "default_width": 42,
+        "width": 128,
+        "height": 128,
+        "tags": [
+            "hi",
+            "hey",
+            "wave",
+            "bye"
+        ]
+    },
     "leclerc": {
         "url": "https://i.ibb.co/YB22P4Sv/image.png",
         "default_width": 42,
